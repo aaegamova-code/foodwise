@@ -18,7 +18,7 @@ npm run build      # type-check + production build in dist/
 
 Best viewed at a 375–430 px mobile width; on desktop it renders inside a phone frame.
 
-**Live demo:** _add the GitHub Pages link here after the first deploy_
+**Live demo:** https://aaegamova-code.github.io/foodwise/
 
 ## Publish on GitHub Pages
 
