@@ -1,0 +1,44 @@
+/* FoodWise design tokens — change the look of the whole app from here. */
+:root {
+  /* Surfaces */
+  --bg: #ffffff;
+  --surface: #faf9f5; /* warm off-white */
+  --surface-2: #f4f2ec;
+  --card: #ffffff;
+  --stage: #eeebe3; /* desktop backdrop around the phone */
+
+  /* Brand */
+  --ink: #193a32; /* deep forest text */
+  --forest: #1f4a3d; /* dark feature cards */
+  --primary: #2d775c;
+  --primary-hover: #256650;
+  --mint: #d8eadf;
+  --mint-soft: #eef6f0;
+  --accent: #e6b86d;
+  --accent-soft: #fbf1df;
+  --muted: #64726c;
+  --line: #ebe8e0;
+
+  /* Feedback */
+  --danger: #b5462f;
+  --danger-soft: #fbeae5;
+  --care: #8a5a9e;
+  --care-soft: #f4edf7;
+
+  /* Type */
+  --font-sans: 'DM Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-serif: 'Fraunces', Georgia, 'Times New Roman', serif;
+
+  /* Shape & depth */
+  --r-sm: 12px;
+  --r-md: 18px;
+  --r-lg: 24px;
+  --r-xl: 30px;
+  --shadow-sm: 0 1px 2px rgba(25, 58, 50, 0.05), 0 2px 8px rgba(25, 58, 50, 0.05);
+  --shadow-md: 0 4px 24px rgba(25, 58, 50, 0.08);
+  --shadow-lg: 0 24px 60px rgba(25, 58, 50, 0.16);
+
+  --focus: 0 0 0 3px rgba(45, 119, 92, 0.35);
+  --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --gutter: 20px;
+}
